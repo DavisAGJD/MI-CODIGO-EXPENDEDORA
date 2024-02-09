@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Maquina_de_Expender/1.0.0": {
+        "runtime": {
+          "Maquina_de_Expender.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maquina_de_Expender/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Maquina_de_Expender\bin\Debug\net7.0\Maquina_de_Expender.exe
+C:\Users\David\Documents\Maquina_de_Expender\bin\Debug\net7.0\Maquina_de_Expender.deps.json
+C:\Users\David\Documents\Maquina_de_Expender\bin\Debug\net7.0\Maquina_de_Expender.runtimeconfig.json
+C:\Users\David\Documents\Maquina_de_Expender\bin\Debug\net7.0\Maquina_de_Expender.dll
+C:\Users\David\Documents\Maquina_de_Expender\bin\Debug\net7.0\Maquina_de_Expender.pdb
+C:\Users\David\Documents\Maquina_de_Expender\obj\Debug\net7.0\Maquina_de_Expender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Maquina_de_Expender\obj\Debug\net7.0\Maquina_de_Expender.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Maquina_de_Expender\obj\Debug\net7.0\Maquina_de_Expender.AssemblyInfo.cs
+C:\Users\David\Documents\Maquina_de_Expender\obj\Debug\net7.0\Maquina_de_Expender.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Maquina_de_Expender\obj\Debug\net7.0\Maquina_de_Expender.dll
+C:\Users\David\Documents\Maquina_de_Expender\obj\Debug\net7.0\refint\Maquina_de_Expender.dll
+C:\Users\David\Documents\Maquina_de_Expender\obj\Debug\net7.0\Maquina_de_Expender.pdb
+C:\Users\David\Documents\Maquina_de_Expender\obj\Debug\net7.0\Maquina_de_Expender.genruntimeconfig.cache
+C:\Users\David\Documents\Maquina_de_Expender\obj\Debug\net7.0\ref\Maquina_de_Expender.dll
